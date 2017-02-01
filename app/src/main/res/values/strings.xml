@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3 - Comunicación entre Activities</string>
+    <string name="nombre">Inserte su nombre</string>
+    <string name="verificar">Verificar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="rechazar">Rechazar</string>
+</resources>
